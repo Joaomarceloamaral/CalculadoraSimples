@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="texto_somar">SOMAR</string>
+    <string name="primeiro_numero">Primeiro Número</string>
+    <string name="segundo_numero">Segundo Número</string>
+    <string name="texto_subtrair">SUBTRAIR</string>
+    <string name="texto_multiplicar">MULTIPLICAR</string>
+    <string name="texto_dividir">DIVIDIR</string>
+    <string name="exemplo_numero">ex: 123</string>
+    <string name="exemplo_numero1">ex: 321</string>
+    <string name="texto_resultado">Resultado</string>
+    <string name="texto_resultado_inicial">0</string>
+</resources>
